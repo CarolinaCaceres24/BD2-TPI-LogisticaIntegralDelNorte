@@ -2,7 +2,7 @@
 
 🧾 Sistema: Logística Integral del Norte S.A.
 
-📋Descripción
+# 📋Descripción
 
 Este repositorio contiene el desarrollo del Trabajo Práctico Integrador de la materia Base de Datos II.
 
@@ -21,14 +21,14 @@ La base de datos permite gestionar:
 Además, se implementaron distintos objetos propios de SQL Server para automatizar procesos y mantener la integridad de la información.
 
 
-🖥️ Tecnologías utilizadas
+# 🖥️ Tecnologías utilizadas
 
 - Microsoft SQL Server
 - SQL Server Management Studio (SSMS)
 - SQL (T-SQL)
 
 
-⚙️ Componentes técnicos
+# ⚙️ Componentes técnicos
 
 ## Tablas
 
