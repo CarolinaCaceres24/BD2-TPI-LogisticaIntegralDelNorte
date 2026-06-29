@@ -28,7 +28,7 @@ Además, se implementaron distintos objetos propios de SQL Server para automatiz
 - SQL (T-SQL)
 
 
-# Objetos implementados
+⚙️ Componentes técnicos
 
 ## Tablas
 
@@ -108,10 +108,3 @@ Además, se implementaron distintos objetos propios de SQL Server para automatiz
 
 ---
 # Grupo 80
-# Materia
-
-Base de Datos II
-
-Tecnicatura Universitaria en Programación
-
-Universidad Tecnológica Nacional (UTN)
