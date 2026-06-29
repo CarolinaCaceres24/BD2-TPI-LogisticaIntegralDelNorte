@@ -21,7 +21,7 @@ La base de datos permite gestionar:
 Además, se implementaron distintos objetos propios de SQL Server para automatizar procesos y mantener la integridad de la información.
 
 
-# 🖥️ Tecnologías utilizadas
+## 🖥️ Tecnologías utilizadas
 
 - Microsoft SQL Server
 - SQL Server Management Studio (SSMS)
