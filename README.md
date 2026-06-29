@@ -1,6 +1,6 @@
 # Trabajo Práctico Integrador - Base de Datos II
 
-##🧾 Sistema: Logística Integral del Norte S.A.
+🧾 Sistema: Logística Integral del Norte S.A.
 
 # 📋Descripción
 
