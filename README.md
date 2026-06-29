@@ -66,18 +66,6 @@ Además, se implementaron distintos objetos propios de SQL Server para automatiz
 
 ---
 
-# Estructura del repositorio
-
-```
-📂 Capturas
-📄 Documento_TPI.pdf
-📄 ScriptSQL.sql
-🖼 DER_Corregido.png
-📄 README.md
-```
-
----
-
 # Ejecución
 
 1. Abrir SQL Server Management Studio.
@@ -119,7 +107,7 @@ Además, se implementaron distintos objetos propios de SQL Server para automatiz
 • Cáceres, Carolina 
 
 ---
-
+# Grupo 80
 # Materia
 
 Base de Datos II
